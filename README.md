@@ -189,7 +189,6 @@ FTP port (21) appears as closed/filtered.
 * Observed firewall logs
 * Gained hands-on firewall management experience
 
----
 
 ## ✅ Conclusion
 
